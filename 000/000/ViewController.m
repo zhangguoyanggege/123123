@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"jfldsfjslddfs");
+    
+    NSLog(@"0323453545465656");
 }
 
 - (void)didReceiveMemoryWarning {
